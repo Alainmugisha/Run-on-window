@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="regression">
+
+	<test name ="Test_login_page" />
+	
+	<parameter name = "username" value = "demo@techfios.com" />
+	
+	<parameter name = "password" value = "abc123" />
+	
+	<classes>
+
+		<class name = "testing.Test_login_page"/>
+
+
+	</classes>
+</suite>
